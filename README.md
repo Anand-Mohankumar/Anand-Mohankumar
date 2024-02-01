@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anand-Mohankumar
-- 👀 I’m interested in Cyber Defense,
-- 🌱 I’m currently learning Threat Hunting and Incident Response
+- 💼 Working in Cyber Defense
+- 🌱 Learning and Practicing Threat Hunting and Incident Response
 
 <!---
 Anand-Mohankumar/Anand-Mohankumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
