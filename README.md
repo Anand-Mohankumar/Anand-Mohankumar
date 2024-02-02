@@ -10,7 +10,7 @@
 ## 💎 Top Skills
 
 |Security Incident Management|Threat & Vulnerability Management|Cyber Threat Intelligence|
-|----|---|---|
+|----|----|----|
 |Controls and Framework (NIST, ISO, CIS etc.)|Digital Forensics|Endpoint Detection and Response|
 
 ---
