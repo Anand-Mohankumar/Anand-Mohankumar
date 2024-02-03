@@ -4,7 +4,8 @@
 ---
 ## 📑 Projects and Repos
 
-🚧 Under Construction 🚧
+[**Purple Teaming : HomeLab**](https://github.com/Anand-Mohankumar/Home-Lab)|
+|----|
 
 ---
 ## 💎 Top Skills
