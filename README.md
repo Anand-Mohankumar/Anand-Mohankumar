@@ -17,5 +17,5 @@
 ---
 ## 📚 Creds and Validations
 
-|[Credly](https://www.credly.com/users/anandmohankumar/badges)|[Cybrary](https://app.cybrary.it/profile/anand_mohankumar)|[Blueteam Labs](https://blueteamlabs.online/public/user/5060e497c8e972ecf70f74)|
-|----|----|----|
+|[Credly](https://www.credly.com/users/anandmohankumar/badges)|[Cybrary](https://app.cybrary.it/profile/anand_mohankumar)|[Blueteam Labs](https://blueteamlabs.online/public/user/5060e497c8e972ecf70f74)|[PicoCTF](https://play.picoctf.org/users/am05)
+|----|----|----|----|
