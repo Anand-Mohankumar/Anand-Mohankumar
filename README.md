@@ -1,5 +1,5 @@
 # About Me
-👋 Hello, I'm **Аnand Мohankumar**, a passionate Cyber Defender with a keen interest in **Threat Hunting**,**Incident Response** and **Forensics**.
+👋 Hello, I'm **Аnand Мohankumar**, a passionate Cyber Defender with a keen interest in **Threat Hunting**, **Incident Response** and **Forensics**.
 
 ---
 ## 📑 Projects and Repos
