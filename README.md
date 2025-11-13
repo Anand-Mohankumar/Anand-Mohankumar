@@ -15,7 +15,7 @@ Hello, I'm **Аnand Мohankumar**, Cybersecurity and Compliance professional, fo
 | Security Incident Management | Threat & Vulnerability Management | Cyber Threat Intelligence |
 |---|---|---|
 | Controls and Framework (NIST, ISO, CIS etc.) | Digital Forensics | Endpoint Detection and Response |
-| Third Party Risk Management (TPRM | Due Diligence | RFP |
+| Third Party Risk Management (TPRM) | Due Diligence | RFP |
 
 ---
 
