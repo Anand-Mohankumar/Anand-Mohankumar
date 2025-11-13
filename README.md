@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hello, I'm **Аnand Мohankumar**, a passionate Cyber Defender with a keen interest in **Threat Hunting**, **Incident Response** and **Forensics**.
+Hello, I'm **Аnand Мohankumar**, Cybersecurity and Compliance professional, focused on building trust is customer.
 
 ---
 
@@ -15,6 +15,7 @@ Hello, I'm **Аnand Мohankumar**, a passionate Cyber Defender with a keen inter
 | Security Incident Management | Threat & Vulnerability Management | Cyber Threat Intelligence |
 |---|---|---|
 | Controls and Framework (NIST, ISO, CIS etc.) | Digital Forensics | Endpoint Detection and Response |
+| Third Party Risk Management (TPRM | Due Diligence | RFP |
 
 ---
 
