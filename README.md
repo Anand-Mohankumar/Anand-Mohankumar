@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hello, I'm **Аnand Мohankumar**, Cybersecurity and Compliance professional, focused on building trust is customer.
+Hello, I'm **Аnand Мohankumar**, Cybersecurity and Compliance professional, focused on building trust.
 
 ---
 
