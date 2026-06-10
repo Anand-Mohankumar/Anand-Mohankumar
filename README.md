@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hello, I'm **Аnand Мohankumar**, Revenue Operations professional focused on AI Automation and GRC, Trust & Compliance — with a foundation in Security Operations.
+Hello, I'm **Аnand Мohankumar**, Revenue Operations professional focused on AI Automation and GRC, Trust & Compliance — with experience in Security Operations.
 
 ---
 
