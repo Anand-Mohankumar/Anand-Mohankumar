@@ -1,12 +1,12 @@
 # About Me 👋
 
-Hello, I'm **Аnand Мohankumar**, Cybersecurity and Compliance professional, focused on building trust.
+Hello, I'm **Аnand Мohankumar**, Security Assurance, Trust & Compliance, and Revenue Operations professional — with hands-on Security Operations experience and a focus on AI automation.
 
 ---
 
 ## 📑 Projects and Repos
 
-[**Purple Teaming : HomeLab**](https://github.com/Anand-Mohankumar/Home-Lab)
+[**Portfolio**](https://cyberamo.work) · [**Purple Teaming : HomeLab**](https://github.com/Anand-Mohankumar/Home-Lab)
 
 ---
 
@@ -14,8 +14,9 @@ Hello, I'm **Аnand Мohankumar**, Cybersecurity and Compliance professional, fo
 
 | Security Incident Management | Threat & Vulnerability Management | Cyber Threat Intelligence |
 |---|---|---|
-| Controls and Framework (NIST, ISO, CIS etc.) | Digital Forensics | Endpoint Detection and Response |
-| Third Party Risk Management (TPRM) | Due Diligence | RFP |
+| Controls and Frameworks (NIST, ISO, CIS etc.) | Digital Forensics | Endpoint Detection and Response |
+| Third Party Risk Management (TPRM) | Customer Due Diligence | Security Questionnaires / RFP |
+| AI Automation & Agentic Workflows | Prompt & Context Engineering | GRC / Trust Operations |
 
 ---
 
