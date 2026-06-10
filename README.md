@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hello, I'm **Аnand Мohankumar**, Security Assurance, Trust & Compliance, and Revenue Operations professional — with hands-on Security Operations experience and a focus on AI automation.
+Hello, I'm **Аnand Мohankumar**, Revenue Operations professional focused on AI Automation and GRC, Trust & Compliance — with a foundation in Security Operations.
 
 ---
 
@@ -12,11 +12,15 @@ Hello, I'm **Аnand Мohankumar**, Security Assurance, Trust & Compliance, and R
 
 ## 💎 Top Skills
 
+**Current Focus**
+| AI Automation & Agentic Workflows | Prompt & Context Engineering | GRC / Trust Operations |
+|---|---|---|
+| Customer Due Diligence | Security Questionnaires / RFP | Third Party Risk Management (TPRM) |
+
+**Security Operations Background**
 | Security Incident Management | Threat & Vulnerability Management | Cyber Threat Intelligence |
 |---|---|---|
 | Controls and Frameworks (NIST, ISO, CIS etc.) | Digital Forensics | Endpoint Detection and Response |
-| Third Party Risk Management (TPRM) | Customer Due Diligence | Security Questionnaires / RFP |
-| AI Automation & Agentic Workflows | Prompt & Context Engineering | GRC / Trust Operations |
 
 ---
 
